@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="grid md:grid-cols-3 gap-7">
                 <div className="">
                     <a href="/" className="mb-10 block">
-                        <h1 className="text-white font-extrabold text-2xl">Drone Solo</h1>
+                        <h1 className="text-white font-extrabold text-2xl">Aldi Ardiansah</h1>
                     </a>
                     <p className="text-gray-400">
                         I am an Information Technology student with a background in manufacturing. Currently, I focus on web development, creating company profile websites that help businesses build their digital presence.
